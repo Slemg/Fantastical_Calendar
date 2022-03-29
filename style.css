@@ -602,33 +602,29 @@ top:-5%
     margin-left: 20px;
 }
 #time p:first-child {
-    margin-top: 14px !important;
+    padding-top: 70px;
 }
 #time {
     margin-right: 20px;
 }
 #time p {
-    padding-top: 53px;
     padding-left: 20px;
     color: #71717A;
     margin: 0;
-}
-#time-another p:first-child {
-    margin-top: 14px !important;
 }
 #time-another p {
-    padding-top: 53px;
     padding-left: 20px;
+    max-width: 53px;
     color: #71717A;
     margin: 0;
 }
-#sosi {
+#giant {
     display: flex;
 }
 .calendar-wrapper {
     display: grid;
-    grid-template-columns: repeat(7, 159px);
-    grid-auto-rows: 80px;  
+    grid-template-columns: repeat(7, 143px);
+    grid-auto-rows: 68px;  
 }
 .calendar-wrapper p {
     margin:0;
@@ -749,4 +745,16 @@ text-align: left;
     letter-spacing: 0em;
     text-align: left;
     color: #0369A1;
+}
+#spec {
+    padding-top: 30px !important;
+}
+#eight {
+    padding-top: 45px;
+}
+#nine,#ten,#eleven,#twelve {
+    padding-top: 50px;
+}
+#one,#two,#three,#four,#five,#six {
+    padding-top: 48px;
 }
