@@ -550,6 +550,7 @@ top:-5%
 }
 #big-selection {
     display: flex;
+    width:1150px;
     align-items: center;
     justify-content: space-between;
     margin-bottom: 20px;
@@ -562,7 +563,6 @@ top:-5%
     display: flex;
     background-color: #F4F4F5;
     height: 30px;
-    margin-right: 20px;
     border-radius: 10px;
     align-items: center;
 }
