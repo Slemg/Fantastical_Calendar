@@ -516,6 +516,7 @@ top:-5%
 }
 #huge-boy {
     display: flex;
+    justify-content: center;
 }
 #selection #left-xd {
     background: #F4F4F5;
@@ -680,7 +681,7 @@ top:-5%
 }
 #meeting-one-border {
     background: #0EA5E91A;
-    height: 160px;
+    height: 135px;
     border-left: 3px solid #0EA5E9;
 }
 #meeting-one-purple {
